@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clearspace"
+  short_description: "Review Mac storage and plan scoped cleanup"
+  default_prompt: "Use $clearspace-skill to audit my Mac storage and explain the most useful cleanup opportunities before making changes."

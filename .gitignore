@@ -1,0 +1,8 @@
+# Source-only publication allowlist. Keep private runtime outputs elsewhere.
+*
+!.gitignore
+!AGENTS.md
+!SKILL.md
+!agents/
+agents/*
+!agents/openai.yaml
